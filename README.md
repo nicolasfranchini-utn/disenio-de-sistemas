@@ -8,6 +8,8 @@ Mi nombre es ***Nicolás Franchini*** y estudio Ingeniería en Sistemas de Infor
 # Acerca de este repositorio 📝
 Como se mencionó previamente, este repositorio está destinado a alojar mis trabajos relacionados con la materia de Diseño de Sistemas de Información de la Universidad Tecnológica Nacional de Buenos Aires. A medida que vaya avanzando la cursada, iré generando directorios con cada uno de los trabajos que vaya realizando y los iré listando a continuación:
 
+0. [Ejercicio: Validador de Correlativas](https://github.com/nicolasfranchini-utn/disenio-de-sistemas/tree/main/ejercicio-validador-correlatividades)
+
 # Contacto 📞
 En los siguientes canales, podemos estar en contacto para generar networking.
 + LinkedIn: https://www.linkedin.com/in/franchini-nicolas/
